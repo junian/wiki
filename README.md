@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Emulation on Android
 
-You can use the [editor on GitHub](https://github.com/junian/wiki/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is for to play game on Android by using emulators.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Direct Download
 
-### Markdown
+- [RetroArch](https://www.retroarch.com/?page=platforms) - All in one emulator.
+- [PPSSPP Nightly](https://www.ppsspp.org/downloads.html) - Best PSP emulator.
+- [Pure Play!](https://purei.org/downloads.php) - Experimental PS2 emulator.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Play Store Download
 
-```markdown
-Syntax highlighted code block
+- [PPSSPP Gold](https://play.google.com/store/apps/details?id=org.ppsspp.ppssppgold) - Best PSP emulator.
+- [DraStic DS Emulator](https://play.google.com/store/apps/details?id=com.dsemu.drastic) - Best NDS emulator.
+- [Citra](https://play.google.com/store/apps/details?id=org.citra.citra_emu) - 3DS emulator, still WIP, but works with some games.
+- [DamonPs2](https://play.google.com/store/apps/details?id=com.damonplay.damonps2.free) - PS2 emulator that kind-of work.
 
-# Header 1
-## Header 2
-### Header 3
+## Great Android Apps That isn't on Play Store
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/junian/wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Several great apps that is not available on Play Store.
+Mostly downloaded directly from GitHub.
