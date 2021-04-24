@@ -19,3 +19,7 @@ This is for to play game on Android by using emulators.
 
 Several great apps that is not available on Play Store.
 Mostly downloaded directly from GitHub.
+
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases) - Best manga reader app.
+- [Vanced](https://github.com/YTVanced/VancedManager/releases) - Best YT app.
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Best YT app on TV.
