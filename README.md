@@ -8,6 +8,7 @@ This is for to play game on Android by using emulators.
 - Purei Play! - Experimental PS2 emulator. [Website](https://purei.org/downloads.php).
 - Citra - 3ds emulator. [Google](https://play.google.com/store/apps/details?id=org.citra.citra_emu) | [GitHub](https://github.com/citra-emu/citra-android/releases/).
 - Citra MMJ - Fork of Citra 3ds emulator. [GitHub](https://github.com/weihuoya/citra/releases).
+- Dolphin - GameCube and Wii emulator. [Google](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu) | [Website](https://dolphin-emu.org/download/).
 - Dolphin MMJ - Fork of Dolphone GameCube / Wii Emulator. [GitHub](https://github.com/weihuoya/dolphin/releases).
 - PPSSPP - Best PSP emulator. [Google](https://play.google.com/store/apps/details?id=org.ppsspp.ppssppgold) | [Website](https://www.ppsspp.org/downloads.html).
 - DraStic DS Emulator - Best NDS emulator. [Google](https://play.google.com/store/apps/details?id=com.dsemu.drastic).
