@@ -14,6 +14,7 @@ This is for to play game on Android by using emulators.
 - Citra MMJ - Fork of Citra 3ds emulator. [GitHub](https://github.com/weihuoya/citra/releases).
 - DamonPs2 - PS2 emulator that kind-of work. [Google](https://play.google.com/store/apps/details?id=com.damonplay.damonps2.free).
 - Purei Play! - Experimental PS2 emulator. [Website](https://purei.org/downloads.php).
+- Egg NS - Experimental and questionable Switch emulator. [Website](https://eggns.wordpress.com/).
 
 Need some more files? Go to [/r/Roms/](https://www.reddit.com/r/Roms/) subreddit.
 
