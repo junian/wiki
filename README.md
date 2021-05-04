@@ -26,3 +26,11 @@ Mostly downloaded directly from GitHub.
 - Tachiyomi - Best manga reader app. [GitHub](https://github.com/tachiyomiorg/tachiyomi/releases).
 - Vanced - Best YT app for android phone and tablet. [GitHub](https://github.com/YTVanced/VancedManager/releases).
 - SmartTubeNext - Best YT app on android TV. [GitHub](https://github.com/yuliskov/SmartTubeNext).
+
+## Update Notes
+
+- [Apple security updates](https://support.apple.com/en-us/HT201222)
+- [Samsung Galaxy S10 Lite](https://doc.samsungmobile.com/sm-g770f/phe/doc.html)
+- [Samsung Galaxy Tab A with S Pen](https://doc.samsungmobile.com/SM-P205/XTC/doc.html)
+- [8BitDo Support](https://support.8bitdo.com)
+- [GameSir](https://www.gamesir.hk/pages/gamesir-app)
