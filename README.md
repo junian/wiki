@@ -30,7 +30,7 @@ Mostly downloaded directly from GitHub.
 ## Update Notes
 
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
-- [Samsung Galaxy S10 Lite](https://doc.samsungmobile.com/sm-g770f/phe/doc.html)
-- [Samsung Galaxy Tab A with S Pen](https://doc.samsungmobile.com/SM-P205/XTC/doc.html)
+- [Galaxy S10 Lite](https://doc.samsungmobile.com/sm-g770f/phe/doc.html)
+- [Galaxy Tab A with S Pen](https://doc.samsungmobile.com/SM-P205/XTC/doc.html)
 - [8BitDo Support](https://support.8bitdo.com)
 - [GameSir](https://www.gamesir.hk/pages/gamesir-app)
