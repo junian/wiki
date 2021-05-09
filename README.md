@@ -8,7 +8,8 @@ This is for to play game on Android by using emulators.
 - [DraStic DS Emulator](https://play.google.com/store/apps/details?id=com.dsemu.drastic) - Best NDS emulator.
 - [PPSSPP](https://play.google.com/store/apps/details?id=org.ppsspp.ppssppgold) - Best PSP emulator. [Website](https://www.ppsspp.org/downloads.html).
 - [Dolphin](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu) - GameCube and Wii emulator. [Website](https://dolphin-emu.org/download/).
-- [Dolphin MMJ](https://github.com/weihuoya/dolphin/releases) - Fork of Dolphone GameCube / Wii Emulator.
+- [Dolphin MMJR](https://github.com/Bankaimaster999/dolphin/releases) - Fork of Dolphon GameCube / Wii emulator. 
+- [Dolphin MMJ](https://github.com/weihuoya/dolphin/releases) - Fork of Dolphin GameCube / Wii Emulator.
 - [Duckstation](https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation) - New PSX emulator. [GitHub](https://github.com/stenzek/duckstation/releases).
 - [Citra](https://play.google.com/store/apps/details?id=org.citra.citra_emu) - 3ds emulator. [GitHub](https://github.com/citra-emu/citra-android/releases/).
 - [Citra MMJ](https://github.com/weihuoya/citra/releases) - Fork of Citra 3ds emulator.
