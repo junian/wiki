@@ -2,7 +2,7 @@
 
 This is for to play game on Android by using emulators.
 
-### Direct Download
+### Emulators
 
 - [RetroArch](https://www.retroarch.com/?page=platforms) - All in one emulator.
 - [DraStic DS Emulator](https://play.google.com/store/apps/details?id=com.dsemu.drastic) - Best NDS emulator.
@@ -16,6 +16,10 @@ This is for to play game on Android by using emulators.
 - [DamonPS2](https://play.google.com/store/apps/details?id=com.damonplay.damonps2.free) - PS2 emulator that kind-of work.
 - [Purei Play!](https://purei.org/downloads.php) - Experimental PS2 emulator.
 - [Egg NS](https://eggns.wordpress.com/) - Experimental and questionable Switch emulator.
+
+### Recommended games
+
+- [/v/'s recommended](https://vsrecommendedgames.fandom.com/wiki/V/%27s_Recommended_Games_Wiki)
 
 Need some more files? Go to [/r/Roms/](https://www.reddit.com/r/Roms/) subreddit.
 
