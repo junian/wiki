@@ -20,6 +20,15 @@ This is for to play game on Android by using emulators.
 ### Recommended games
 
 - [/v/'s recommended](https://vsrecommendedgames.fandom.com/wiki/V/%27s_Recommended_Games_Wiki)
+  - [PSX](https://vsrecommendedgames.fandom.com/wiki/PlayStation)
+  - [PSP](https://vsrecommendedgames.fandom.com/wiki/PlayStation_Portable)
+  - [PS2](https://vsrecommendedgames.fandom.com/wiki/PlayStation_2)
+  - [Nintendo 3DS](https://vsrecommendedgames.fandom.com/wiki/Nintendo_3DS)
+  - [Nintendo DS](https://vsrecommendedgames.fandom.com/wiki/Nintendo_DS)
+  - [Nintendo GameCube](https://vsrecommendedgames.fandom.com/wiki/Gamecube)
+  - [Nintendo Wii](https://vsrecommendedgames.fandom.com/wiki/Wii)
+  - [Sega Dreamcast](https://vsrecommendedgames.fandom.com/wiki/Dreamcast)
+  - [Sega Saturn](https://vsrecommendedgames.fandom.com/wiki/Saturn)
 
 Need some more files? Go to [/r/Roms/](https://www.reddit.com/r/Roms/) subreddit.
 
