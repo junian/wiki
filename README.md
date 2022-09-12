@@ -39,6 +39,7 @@ Mostly downloaded directly from GitHub.
 
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases) - Best manga reader app.
 - [Vanced](https://github.com/YTVanced/VancedManager/releases) - Best YT app for android phone and tablet.
+- [Vanced archive.org](https://web.archive.org/web/20220301104755/https://vancedapp.com/).
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Best YT app on android TV.
 - [WhatsApp Web To Go](https://github.com/92lleo/WhatsappWebToGo/releases) - Using WA Web on Android.
 
