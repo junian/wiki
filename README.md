@@ -46,6 +46,7 @@ Mostly downloaded directly from GitHub.
 
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
 - [Galaxy S10 Lite](https://doc.samsungmobile.com/sm-g770f/phe/doc.html)
+- [Galaxy Tab S6](https://doc.samsungmobile.com/SM-T865/XID/doc.html)
 - [Galaxy Tab A with S Pen](https://doc.samsungmobile.com/SM-P205/XTC/doc.html)
 - [8BitDo Support](https://support.8bitdo.com)
 - [GameSir](https://www.gamesir.hk/pages/gamesir-app)
