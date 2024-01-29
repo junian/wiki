@@ -37,6 +37,7 @@ Need some more files? Go to [/r/Roms/](https://www.reddit.com/r/Roms/) subreddit
 Several great apps that is not available on Play Store.
 Mostly downloaded directly from GitHub.
 
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Best manga + anime reader app.
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/releases) - Best manga reader app.
 - [Vanced](https://github.com/YTVanced/VancedManager/releases) - Best YT app for android phone and tablet.
 - [Vanced archive.org](https://web.archive.org/web/20220301104755/https://vancedapp.com/).
